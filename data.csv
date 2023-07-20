@@ -34,13 +34,13 @@ Sport Name,Name,Nationality,Current Rank,Sport,Year,Earnings ($ million)
 33,Ayrton Senna,Brazil,3,Auto Racing,1993,18.5
 34,Alain Prost,France,4,Auto Racing,1993,16
 35,George Foreman,USA,5,Boxing,1993,15.8
-36,Shaquille O'Neal,USA,6,Basketball,1993,15.2
+36,Shaquille ONeal,USA,6,Basketball,1993,15.2
 37,Lennox Lewis,USA,7,Boxing,1993,15
 38,Cecil Fielder,USA,8,Baseball,1993,12.7
 39,Jim Courier,USA,9,Tennis,1993,12.6
 40,Joe Montana,USA,10,American Football,1993,11.5
 41,Michael Jordan,USA,1,Basketball,1994,30
-42,Shaq O'Neal,USA,2,Basketball,1994,16.7
+42,Shaquille ONeal,USA,2,Basketball,1994,16.7
 43,Jack Nicklaus,USA,3,Golf,1994,14.8
 44,Arnold Palmer,USA,4,Golf,1994,13.6
 45,Gerhard Berger,Austria,5,Auto Racing,1994,13.5
@@ -53,7 +53,7 @@ Sport Name,Name,Nationality,Current Rank,Sport,Year,Earnings ($ million)
 52,Mike Tyson,USA,2,Boxing,1995,40
 53,Deion Sanders,USA,3,American Football / Baseball,1995,22.5
 54,Riddick Bowe,USA,4,Boxing,1995,22.2
-55,Shaquille O'Neal,USA,5,Basketball,1995,21.9
+55,Shaquille ONeal,USA,5,Basketball,1995,21.9
 56,George Foreman,USA,6,Boxing,1995,18
 57,Andre Agassi,USA,7,Tennis,1995,16
 58,Sugar Ray Leonard,USA,8,Golf,1995,15.1
@@ -62,7 +62,7 @@ Sport Name,Name,Nationality,Current Rank,Sport,Year,Earnings ($ million)
 61,Mike Tyson,USA,1,Boxing,1996,75
 62,Michael Jordan,USA,2,Basketball,1996,52.6
 63,Michael Schumacher,Germany,3,Auto Racing,1996,33
-64,Shaquille O'Neal,USA,4,Basketball,1996,24.4
+64,Shaquille ONeal,USA,4,Basketball,1996,24.4
 65,Emmit Smith,USA,5,American Football,1996,16.5
 66,Evander Holyfield,USA,6,Boxing,1996,15.5
 67,Andre Agassi,USA,7,Tennis,1996,15.2
@@ -75,7 +75,7 @@ Sport Name,Name,Nationality,Current Rank,Sport,Year,Earnings ($ million)
 74,Michael Schumacher,Germany,4,Auto Racing,1997,35
 75,Mike Tyson,USA,5,Boxing,1997,27
 76,Tiger Woods,USA,6,Golf,1997,26.1
-77,Shaquille O'Neal,USA,7,Basketball,1997,25.4
+77,Shaquille ONeal,USA,7,Basketball,1997,25.4
 78,Dale Earnhardt,USA,8,Auto Racing,1997,19.1
 79,Joe Sakic,Canada,9,Hockey,1997,17.9
 80,Grant Hill,USA,10,Basketball,1997,17
@@ -95,7 +95,7 @@ Sport Name,Name,Nationality,Current Rank,Sport,Year,Earnings ($ million)
 94,Michael Jordan,USA,4,Basketball,1999,40
 95,Evander Holyfield,USA,5,Boxing,1999,35.5
 96,Mike Tyson,USA,6,Boxing,1999,33
-97,Shaq O'Neal,USA,7,Basketball,1999,31
+97,Shaquille ONeal,USA,7,Basketball,1999,31
 98,Lennox Lewis,USA,8,Boxing,1999,29
 99,Dale Earnhardt,USA,9,Auto Racing,1999,26.5
 100,Grant Hill,USA,10,Basketball,1999,23
@@ -105,7 +105,7 @@ Sport Name,Name,Nationality,Current Rank,Sport,Year,Earnings ($ million)
 104,Michael Jordan,USA,4,Basketball,2000,37
 105,Grant Hill,USA,5,Basketball,2000,26
 106,Dale Earnhardt,USA,6,Auto Racing,2000,24.5
-107,Shaq O'Neal,USA,7,Basketball,2000,24
+107,Shaquille ONeal,USA,7,Basketball,2000,24
 108,Lennox Lewis,USA,8,Boxing,2000,23
 109,Oscar De La Hoya,USA,9,Boxing,2000,23
 110,Kevin Garnett,USA,10,Basketball,2000,21
@@ -114,7 +114,7 @@ Sport Name,Name,Nationality,Current Rank,Sport,Year,Earnings ($ million)
 113,Michael Jordan,USA,3,Basketball,2002,36
 114,Lennox Lewis,USA,4,Boxing,2002,28
 115,Grant Hill,USA,5,Basketball,2002,24
-116,Shaquille O'Neal,USA,5,Basketball,2002,24
+116,Shaquille ONeal,USA,5,Basketball,2002,24
 117,Mike Tyson,USA,7,Boxing,2002,23
 118,Kevin Garnett,USA,7,Basketball,2002,23
 119,Kobe Bryant,USA,9,Basketball,2002,22
@@ -123,7 +123,7 @@ Sport Name,Name,Nationality,Current Rank,Sport,Year,Earnings ($ million)
 122,Tiger Woods,USA,1,Golf,2003,78
 123,Michael Schumacher,Germany,2,Auto Racing,2003,75
 124,Michael Jordan,USA,3,Basketball,2003,35
-125,Shaq O'Neal,USA,4,Basketball,2003,30.5
+125,Shaquille ONeal,USA,4,Basketball,2003,30.5
 126,Oscar De La Hoya,USA,5,Boxing,2003,30
 127,Kevin Garnett,USA,6,Basketball,2003,28
 128,Alex Rodriguez,USA,7,Baseball,2003,26
@@ -134,7 +134,7 @@ Sport Name,Name,Nationality,Current Rank,Sport,Year,Earnings ($ million)
 133,Michael Schumacher,Germany,2,Auto Racing,2004,80
 134,Peyton Manning,USA,3,American Football,2004,42
 135,Michael Jordan,USA,4,Basketball,2004,35
-136,Shaquille O'Neal,USA,5,Basketball,2004,31.9
+136,Shaquille ONeal,USA,5,Basketball,2004,31.9
 137,Kevin Garnett,USA,6,Basketball,2004,29.7
 138,Andre Agassi,USA,7,Tennis,2004,28.2
 139,David Beckham,UK,8,Soccer,2004,28
@@ -144,7 +144,7 @@ Sport Name,Name,Nationality,Current Rank,Sport,Year,Earnings ($ million)
 143,Michael Schumacher,Germany,2,Auto Racing,2005,60
 144,Oscar De La Hoya,USA,3,Boxing,2005,38
 145,Michael Vick,USA,4,American Football,2005,37.5
-146,Shaquille O'Neal,USA,5,Basketball,2005,33.4
+146,Shaquille ONeal,USA,5,Basketball,2005,33.4
 147,Michael Jordan,USA,6,Basketball,2005,33
 148,David Beckham,UK,7,Soccer,2005,32.5
 149,Kobe Bryant,USA,8,Basketball,2005,28.8
@@ -156,7 +156,7 @@ Sport Name,Name,Nationality,Current Rank,Sport,Year,Earnings ($ million)
 155,Phil Mickelson,USA,4,Golf,2006,47
 156,Michael Jordan,USA,5,Basketball,2006,32
 157,Kobe Bryant,USA,6,Basketball,2006,31
-158,Shaquille O'Neal,USA,7,Basketball,2006,30
+158,Shaquille ONeal,USA,7,Basketball,2006,30
 159,Valentino Rossi,Italy,8,Moto GP,2006,30
 160,Alex Rodriguez,USA,9,Baseball,2006,29
 161,Tom Brady,USA,9,American Football,2006,29
@@ -167,7 +167,7 @@ Sport Name,Name,Nationality,Current Rank,Sport,Year,Earnings ($ million)
 166,Michael Schumacher,Germany,5,Auto Racing,2007,36
 167,David Beckham,UK,6,Soccer,2007,33
 168,Kobe Bryant,USA,6,Basketball,2007,33
-169,Shaquille O'Neal,USA,8,Basketball,2007,32
+169,Shaquille ONeal,USA,8,Basketball,2007,32
 170,Ronaldinho,Brazil,9,Soccer,2007,31
 171,Michael Jordan,USA,9,Basketball,2007,31
 172,Tiger Woods,USA,1,Golf,2008,115
